@@ -1,0 +1,6 @@
+framework module Pods_Modernland_Approval {
+  umbrella header "Pods-Modernland Approval-umbrella.h"
+
+  export *
+  module * { export * }
+}
